@@ -17,6 +17,8 @@
 - :balloon:  [java-Share-It](https://github.com/ism-ektb/java-shareit) - REST приложение - волонтерский проект для обмена и аренды ненужных вещей
 - :balloon:  [astro](https://github.com/ism-ektb/astro) - приложение для точного расчета траектории движения небесных тел
 
+---
+
 ### Участие в проектах
 
 - :balloon:  [java-Filmorate](https://github.com/PetrovEgorVladimirovich1/java-filmorate) - REST приложение для поиска фильмов. Аналог кинопоиска.
