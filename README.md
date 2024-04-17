@@ -13,7 +13,7 @@
 ---
 ### Законченные проекты
 
-- :balloon:  [java-Explore-With-Me](https://github.com/devShurakov/java-Explore-With-Me) - REST приложение для организации волонтерских мероприятий, поиск участкиков, подписка, отзывы о проектах
+- :balloon:  [java-Explore-With-Me](https://github.com/ism-ektb/java-explore-with-me) - REST приложение для организации волонтерских мероприятий, поиск участкиков, подписка, отзывы о проектах
 - :balloon:  [java-Share-It](https://github.com/ism-ektb/java-shareit) - REST приложение - волонтерский проект для обмена и аренды ненужных вещей
 - :balloon:  [astro](https://github.com/ism-ektb/astro) - приложение для точного расчета траектории движения небесных тел
 
