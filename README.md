@@ -13,7 +13,7 @@
 ---
 ### Законченные проекты
 
-- :balloon:  [bankAccount](https://github.com/ism-ektb/bankAccount) - REST приложение - сервис потокобезопасных "банковских" операций, поддерживающий начисление процентов и переводы со счетов авторизованных пользователей.
+- :balloon:  [bankAccount](https://github.com/ism-ektb/my-bank-app) - Микросервисное приложение с веб-интерфейсом «Банк». Написано на реактивном стеке. Развёртывание с использованием Kubernetes, Helm, включающее трейсинг и метрики запросов, аллерты и централизованное логирование. 
 - :balloon:  [java-Explore-With-Me](https://github.com/ism-ektb/java-explore-with-me) - REST приложение для организации волонтерских мероприятий, поиск участников, подписка, отзывы о проектах
 - :balloon:  [java-Share-It](https://github.com/ism-ektb/java-shareit) - REST приложение - волонтерский проект для обмена и аренды ненужных вещей
 - :balloon:  [astro](https://github.com/ism-ektb/astro) - приложение для точного расчета траектории движения небесных тел
